@@ -50,7 +50,7 @@ function setup() {
    pig2 = new Pig(810, 220, 50, 50);
 
    //create Bird
-   bird1 = new Bird(100, 200);
+   bird1 = new Bird(200, 50);
 
   //create log
   log1 =  new Log(810, 260, 300, PI/2);
